@@ -1,0 +1,6 @@
+Manzanas, 2, 0.20
+Caja de Cereales, 1, 1.20
+Caja de Leche, 1, 0.40
+Huevos, 12, 0.25
+Bollos de pan, 3, 0.15
+Botellines de cerveza, 48, 0.40 
